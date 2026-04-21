@@ -5,7 +5,7 @@ Analyze FEMA’s National Risk Index data for two states to assess natural disas
 - [Project 4 Code](CIVE_202_Project-4_Group-3_Code_.ipynb): This is the code that contains all the data analysis and visualization code.
 - [NRI Kansas Table](NRI_Table_Kansas.csv): National Risk Index data for the state of Kansas.
 - [SVI Kansas](SVI_Kansas.csv): Social Vulnerability Index for the state of Kansas.
-- [NRI Wyoming Table](NRI_Table_Wyoming.csv): National Risk Index data for the state of Kansas. 
+- [NRI Wyoming Table](NRI_Table_Wyoming.csv): National Risk Index data for the state of Wyoming. 
 - [SVI Wyoming](SVI_Wyoming.csv): Social Vulnerability Index for the state of Wyoming.
   
 ---
