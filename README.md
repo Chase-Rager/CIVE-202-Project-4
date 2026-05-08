@@ -1,23 +1,21 @@
-# CIVE-202-Project-4
-Analyze FEMA’s National Risk Index data for two states to assess natural disaster risk. Develop an alternative risk model, compare results to NRI scores, and evaluate potential bias. Clean datasets, generate visualizations and maps, and provide insights to support equitable risk assessment.
+# CIVE-202-Project-5
+This repository contains a Python-based workflow for processing and analyzing asphalt mix design and performance testing data. It automates gradation analysis, volumetric properties, IDEAL-CT cracking resistance evaluation, and HWTT rutting performance using structured Excel inputs. The goal is to streamline civil engineering lab data processing, reduce manual calculations, and improve consistency in mix design evaluation.
 ## Repository Structure
 
-- [Project 4 Code](CIVE_202_Project-4_Group-3_Code_.ipynb): This is the code that contains all the data analysis and visualization code.
-- [NRI Kansas Table](NRI_Table_Kansas.csv): National Risk Index data for the state of Kansas.
-- [SVI Kansas](SVI_Kansas.csv): Social Vulnerability Index for the state of Kansas.
-- [NRI Wyoming Table](NRI_Table_Wyoming.csv): National Risk Index data for the state of Wyoming. 
-- [SVI Wyoming](SVI_Wyoming.csv): Social Vulnerability Index for the state of Wyoming.
+- [Project 5 Code](CIVE_202_Project-4_Group-3_Code_.ipynb): This is the code that contains all the data analysis and visualization code.
+- [Auto BMD](NRI_Table_Kansas.csv): Mix design and performance data.  
+
   
 ---
 ## User Guide
 
 ### 1. Program Overview
-This system automates the generation of five specific transportation-related visualizations and a mathematical simulation of car following behavior. The code is designed to provide the transportation planning group with a quick analysis of US travel trends. 
+This system automates the analysis of asphalt mix design and performance testing data using Python. It processes Excel-based laboratory results to evaluate aggregate gradation, volumetric properties, IDEAL-CT cracking resistance, and HWTT rutting performance. The workflow is designed to streamline asphalt mixture evaluation, reduce manual calculation errors, and provide consistent engineering outputs for pavement design and quality control. 
 
 
 ### 2. Execution Sequence
-- Data Loading: Ensure all [NRI Kansas Table](NRI_Table_Kansas.csv), [SVI Kansas](SVI_Kansas.csv), [NRI Wyoming Table](NRI_Table_Wyoming.csv), and [SVI Wyoming](SVI_Wyoming.csv) are in the same directory as the [Project 4 Code](CIVE_202_Project-4_Group-3_Code_.ipynb)
-- Visualization Generation:  Run the cells to generate the bar chart, histogram, and box plot based on the selected NRI and SVI datasets.
+- Data Loading: Ensure all [NRI Kansas Table](NRI_Table_Kansas.csv) is in the same directory as the [Project 4 Code](CIVE_202_Project-4_Group-3_Code_.ipynb)
+- Visualization Generation:  Run the cells to generate the bar chart, histogram, and box plot based on the selected datasets. 
 
 
 ### 3. Methods
